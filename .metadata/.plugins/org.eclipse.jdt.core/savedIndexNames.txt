@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\web_0900_kth\homework\.metadata\.plugins\org.eclipse.jdt.core
