@@ -1,5 +1,5 @@
 
-package Method;
+package method;
 
 public class Ex02 {
 	public static void main(String[] args) {

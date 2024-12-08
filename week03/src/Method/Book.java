@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Book {
 	//예제 8-6

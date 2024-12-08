@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Ex06 {
 	//예제 8-13

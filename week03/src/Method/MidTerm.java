@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class MidTerm {
 	//예제 8-16

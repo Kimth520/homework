@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Bus {
 	//예제 8-18

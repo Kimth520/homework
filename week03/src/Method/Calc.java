@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Calc {
 	//예제 8-8

@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Jogger {
 	String name;//변수 선언

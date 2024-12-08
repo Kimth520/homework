@@ -1,4 +1,4 @@
-package Method;
+package method;
 
 public class Person {
 	//예제 8-10
